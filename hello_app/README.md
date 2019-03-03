@@ -1,13 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This hello_app means that I have finished the set up of a simple Ruby on Rails project.
 
-Things you may want to cover:
+* ruby 2.6.0p0 (2018-12-25 revision 66547) [x86_64-linux]
 
-* Ruby version
-
-* System dependencies
+* Rails 5.1.6
 
 * Configuration
 
